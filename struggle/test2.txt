@@ -1,0 +1,3 @@
+hello insert content~
+~
+hello golang~

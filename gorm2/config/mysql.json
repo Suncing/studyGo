@@ -1,0 +1,11 @@
+{
+  "diver_name" : "mysql",
+  "user" : "root",
+  "password" : "shousi@520",
+  "addr": "81.68.65.213:3306",
+  "data_base": "gorm2",
+  "charset": "utf8mb4",
+  "parse_Time": true,
+  "loc": "Local",
+  "//notes": "root:123456@(127.0.0.1:3306)/gorm2?charset=utf8mb4&parseTime=True&loc=Local"
+}
